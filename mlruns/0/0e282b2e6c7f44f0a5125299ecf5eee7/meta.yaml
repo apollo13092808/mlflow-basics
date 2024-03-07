@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/F4C01D28C01CF31A/Projects/AI/Machine%20Learning%20Operations/DSwithBappy/sklearn_elasticnet_wine/mlruns/0/0e282b2e6c7f44f0a5125299ecf5eee7/artifacts
+end_time: 1709776849566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e282b2e6c7f44f0a5125299ecf5eee7
+run_name: merciful-crow-168
+run_uuid: 0e282b2e6c7f44f0a5125299ecf5eee7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709776826028
+status: 3
+tags: []
+user_id: apollo
